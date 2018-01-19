@@ -3,7 +3,8 @@
 //Description: Creates a triangle waveform of the amplitude given to it, repreated by the number for frequency
 //		Ranked 138 in the UVa online judge running at O(n) time
 //		The premade table makes STDOUT much faster, as it can output an entire waveform instead of each character or line
-/* Example Input:
+// Easiest to run using: cat input.txt | ./a.out
+/* Example input.txt:
 2  //number of wavetypes
 
 3  //amplitude
